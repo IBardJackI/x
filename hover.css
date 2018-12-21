@@ -1,0 +1,63 @@
+.main-sell:hover{
+    position:absolute;
+    width:20%;
+    height:4%;
+    top:20%;
+    left:20%;
+    text-align: center;
+    padding-top: 29,1%;
+    border-style:solid;
+    border-color:beige;
+    transition: 0.8s;
+}
+.einz-sell:hover{
+  position:absolute;
+    width:20%;
+    height:4%;
+    top:20%;
+    left:41%;
+    text-align: center;
+    padding-top: 13%;
+    border-style:solid;
+    border-color:beige;
+    transition: 0.8s;
+}
+.zwei-sell:hover{
+  position:absolute;
+    width:20%;
+    height:4%;
+    top:52%;
+    left:41%;
+    text-align: center;
+    padding-top: 13%;
+    border-style:solid;
+    border-color:cornflowerblue;
+    border-color:beige;
+    transition: 0.8s;
+}
+.trei-sell:hover{
+  position:absolute;
+    width:20%;
+    height:4%;
+    top:52%;
+    left:62%;
+    text-align: center;
+    padding-top: 13%;
+    border-style:solid;
+    border-color:cornflowerblue;
+    border-color:beige;
+    transition: 0.8s;
+}
+.four-sell:hover{
+  position:absolute;
+    width:20%;
+    height:4%;
+    top:20%;
+    left:62%;
+    text-align: center;
+    padding-top: 13%;
+    border-style:solid;
+    border-color:cornflowerblue;
+    border-color:beige;
+    transition: 0.8s;  
+}
